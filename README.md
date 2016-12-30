@@ -48,7 +48,7 @@ run example:
 ### Image sets
 Images are mainly from Google street view. Some images are from searching at Google images.
 
-### Need improvements
+### Need improvement
 - better datasets (mainly for stop sign)
 - add negative and test datasets
 - for high videoresolution images and videos:
