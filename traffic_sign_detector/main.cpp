@@ -105,7 +105,9 @@ int main(int argc, char *argv[])
 
 			cv::Mat img, stop, hsv;
 
-			int cnt = 2450;
+			//set start
+			int cnt = 0;
+
 			vid.set(CV_CAP_PROP_POS_FRAMES, cnt);
 
 			cout << "Video set time" << endl;
@@ -122,9 +124,14 @@ int main(int argc, char *argv[])
 					break;
 				}
 					
-
 				cnt++;
 				cout << cnt << endl;
+				
+				/*
+				// Used for testing with gopro 3 with 1080p from car.
+				// Signs are on the right side so video can be
+				// cropped to use only part of video for detection 
+				// for speedup recognition
 
 				int roiX = img.cols / 2;
 				int roiY = img.rows / 4;
@@ -133,10 +140,10 @@ int main(int argc, char *argv[])
 				cv::Rect myROI(roiX, roiY, roiWidth, roiHeight);
 				img = img(myROI);
 				//cv::resize(img, img, cv::Size(img.cols / 2, img.rows / 2));
+				*/
 
 				cv_image<bgr_pixel> cimg(img);
 
-				
 				std::vector<rect_detection> rects;
 
 				evaluate_detectors(detectors, cimg, rects);
