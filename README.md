@@ -1,5 +1,6 @@
 # traffic_sign_recognition
 Traffic sign recognition based on Dlib and OpenCV project
+
 School project (POV)
 
 Learning and detecting traffic sign in images and video
