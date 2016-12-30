@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='..\signs\give-way\0001.bmp'>
+    <box top='144' left='938' width='111' height='87'/>
+  </image>
+  <image file='..\signs\give-way\0002.bmp'>
+    <box top='72' left='977' width='139' height='129'/>
+  </image>
+  <image file='..\signs\give-way\0003.bmp'>
+    <box top='183' left='709' width='62' height='53'/>
+  </image>
+  <image file='..\signs\give-way\0004.bmp'>
+    <box top='94' left='125' width='115' height='100'/>
+  </image>
+  <image file='..\signs\give-way\0005.bmp'>
+    <box top='62' left='947' width='157' height='141'/>
+  </image>
+  <image file='..\signs\give-way\0006.bmp'>
+    <box top='118' left='589' width='80' height='65'/>
+  </image>
+  <image file='..\signs\give-way\0007.bmp'>
+    <box top='113' left='726' width='91' height='78'/>
+  </image>
+  <image file='..\signs\give-way\0008.bmp'>
+    <box top='141' left='743' width='71' height='60'/>
+  </image>
+  <image file='..\signs\give-way\0009.bmp'>
+    <box top='51' left='711' width='65' height='53'/>
+  </image>
+  <image file='..\signs\give-way\0010.bmp'>
+    <box top='43' left='694' width='65' height='61'/>
+  </image>
+  <image file='..\signs\give-way\0011.bmp'>
+    <box top='137' left='857' width='107' height='81'/>
+  </image>
+  <image file='..\signs\give-way\0012.bmp'>
+    <box top='183' left='876' width='89' height='70'/>
+  </image>
+  <image file='..\signs\give-way\0013.bmp'>
+    <box top='137' left='853' width='102' height='87'/>
+  </image>
+  <image file='..\signs\give-way\0014.bmp'>
+    <box top='240' left='1048' width='103' height='60'/>
+  </image>
+  <image file='..\signs\give-way\0015.bmp'>
+    <box top='217' left='918' width='72' height='47'/>
+  </image>
+  <image file='..\signs\give-way\0016.bmp'>
+    <box top='101' left='603' width='90' height='75'/>
+  </image>
+  <image file='..\signs\give-way\0017.bmp'>
+    <box top='122' left='625' width='125' height='97'/>
+  </image>
+  <image file='..\signs\give-way\0018.bmp'>
+    <box top='127' left='772' width='113' height='99'/>
+  </image>
+  <image file='..\signs\give-way\0019.bmp'>
+    <box top='124' left='918' width='102' height='102'/>
+  </image>
+  <image file='..\signs\give-way\0020.bmp'>
+    <box top='58' left='656' width='139' height='123'/>
+  </image>
+  <image file='..\signs\give-way\0021.bmp'>
+    <box top='184' left='863' width='80' height='68'/>
+  </image>
+  <image file='..\signs\give-way\0022.bmp'>
+    <box top='119' left='787' width='139' height='104'/>
+  </image>
+  <image file='..\signs\give-way\0023.bmp'>
+    <box top='79' left='800' width='159' height='130'/>
+  </image>
+  <image file='..\signs\give-way\0024.bmp'>
+    <box top='130' left='664' width='95' height='77'/>
+  </image>
+  <image file='..\signs\give-way\0025.bmp'>
+    <box top='107' left='597' width='98' height='93'/>
+  </image>
+  <image file='..\signs\give-way\0026.bmp'>
+    <box top='29' left='33' width='111' height='102'/>
+  </image>
+  <image file='..\signs\give-way\0027.bmp'>
+    <box top='121' left='693' width='71' height='59'/>
+  </image>
+  <image file='..\signs\give-way\0028.bmp'>
+    <box top='182' left='877' width='121' height='89'/>
+  </image>
+  <image file='..\signs\give-way\0029.bmp'>
+    <box top='140' left='752' width='82' height='57'/>
+  </image>
+  <image file='..\signs\give-way\0030.bmp'>
+    <box top='172' left='819' width='69' height='61'/>
+  </image>
+  <image file='..\signs\give-way\0031.bmp'>
+    <box top='269' left='729' width='76' height='58'/>
+  </image>
+  <image file='..\signs\give-way\0032.bmp'>
+    <box top='115' left='702' width='149' height='132'/>
+  </image>
+  <image file='..\signs\give-way\0033.bmp'>
+    <box top='83' left='844' width='89' height='70'/>
+  </image>
+  <image file='..\signs\give-way\0034.bmp'>
+    <box top='179' left='818' width='106' height='95'/>
+  </image>
+  <image file='..\signs\give-way\0035.bmp'>
+    <box top='135' left='716' width='95' height='69'/>
+  </image>
+  <image file='..\signs\give-way\0037.bmp'>
+    <box top='68' left='503' width='58' height='46'/>
+  </image>
+  <image file='..\signs\give-way\0038.bmp'>
+    <box top='150' left='373' width='104' height='93'/>
+  </image>
+  <image file='..\signs\give-way\0039.bmp'>
+    <box top='166' left='191' width='83' height='64'/>
+  </image>
+  <image file='..\signs\give-way\0040.bmp'>
+    <box top='34' left='215' width='76' height='67'/>
+  </image>
+  <image file='..\signs\give-way\0041.bmp'>
+    <box top='104' left='837' width='117' height='92'/>
+  </image>
+  <image file='..\signs\give-way\0042.bmp'>
+    <box top='108' left='748' width='73' height='53'/>
+  </image>
+  <image file='..\signs\give-way\0043.bmp'>
+    <box top='95' left='559' width='85' height='69'/>
+  </image>
+  <image file='..\signs\give-way\0044.bmp'>
+    <box top='125' left='900' width='128' height='110'/>
+  </image>
+  <image file='..\signs\give-way\0045.bmp'>
+    <box top='172' left='603' width='85' height='74'/>
+  </image>
+  <image file='..\signs\give-way\0046.bmp'>
+    <box top='135' left='665' width='73' height='62'/>
+  </image>
+  <image file='..\signs\give-way\0047.bmp'>
+    <box top='64' left='848' width='199' height='176'/>
+  </image>
+  <image file='..\signs\give-way\0048.bmp'>
+    <box top='67' left='677' width='108' height='92'/>
+  </image>
+  <image file='..\signs\give-way\0049.bmp'>
+    <box top='122' left='407' width='68' height='64'/>
+  </image>
+  <image file='..\signs\give-way\0050.bmp'>
+    <box top='122' left='550' width='59' height='47'/>
+  </image>
+  <image file='..\signs\give-way\0051.bmp'>
+    <box top='126' left='583' width='93' height='76'/>
+  </image>
+  <image file='..\signs\give-way\0052.bmp'>
+    <box top='89' left='598' width='121' height='82'/>
+  </image>
+  <image file='..\signs\give-way\0053.bmp'>
+    <box top='178' left='936' width='100' height='93'/>
+  </image>
+  <image file='..\signs\give-way\0054.bmp'>
+    <box top='148' left='590' width='81' height='63'/>
+  </image>
+  <image file='..\signs\give-way\0055.bmp'>
+    <box top='114' left='783' width='112' height='99'/>
+  </image>
+  <image file='..\signs\give-way\0056.bmp'>
+    <box top='129' left='750' width='111' height='71'/>
+  </image>
+  <image file='..\signs\give-way\0057.bmp'>
+    <box top='189' left='785' width='72' height='61'/>
+  </image>
+  <image file='..\signs\give-way\0058.bmp'>
+    <box top='109' left='612' width='86' height='77'/>
+  </image>
+  <image file='..\signs\give-way\0059.bmp'>
+    <box top='86' left='752' width='81' height='66'/>
+  </image>
+  <image file='..\signs\give-way\0060.bmp'>
+    <box top='131' left='866' width='163' height='116'/>
+  </image>
+</images>
+</dataset>

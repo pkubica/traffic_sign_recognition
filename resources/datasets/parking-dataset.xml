@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='..\signs\parking\0001.bmp'>
+    <box top='103' left='759' width='139' height='214'/>
+  </image>
+  <image file='..\signs\parking\0002.bmp'>
+    <box top='210' left='922' width='131' height='173'/>
+  </image>
+  <image file='..\signs\parking\0003.bmp'>
+    <box top='198' left='1048' width='93' height='115'/>
+  </image>
+  <image file='..\signs\parking\0004.bmp'>
+    <box top='137' left='769' width='49' height='69'/>
+  </image>
+  <image file='..\signs\parking\0005.bmp'>
+    <box top='151' left='552' width='54' height='62'/>
+  </image>
+  <image file='..\signs\parking\0006.bmp'>
+    <box top='147' left='814' width='72' height='83'/>
+  </image>
+  <image file='..\signs\parking\0007.bmp'>
+    <box top='118' left='859' width='83' height='111'/>
+  </image>
+  <image file='..\signs\parking\0008.bmp'>
+    <box top='136' left='984' width='58' height='70'/>
+  </image>
+  <image file='..\signs\parking\0009.bmp'>
+    <box top='113' left='950' width='58' height='69'/>
+  </image>
+  <image file='..\signs\parking\0010.bmp'>
+    <box top='65' left='625' width='52' height='69'/>
+  </image>
+  <image file='..\signs\parking\0011.bmp'>
+    <box top='167' left='781' width='55' height='53'/>
+  </image>
+  <image file='..\signs\parking\0012.bmp'>
+    <box top='190' left='601' width='59' height='73'/>
+  </image>
+  <image file='..\signs\parking\0013.bmp'>
+    <box top='117' left='722' width='76' height='68'/>
+  </image>
+  <image file='..\signs\parking\0014.bmp'>
+    <box top='148' left='739' width='57' height='60'/>
+  </image>
+  <image file='..\signs\parking\0016.bmp'>
+    <box top='129' left='811' width='52' height='67'/>
+  </image>
+  <image file='..\signs\parking\0017.bmp'>
+    <box top='153' left='211' width='48' height='66'/>
+  </image>
+  <image file='..\signs\parking\0018.bmp'>
+    <box top='72' left='146' width='66' height='108'/>
+  </image>
+  <image file='..\signs\parking\0019.bmp'>
+    <box top='129' left='98' width='61' height='57'/>
+  </image>
+  <image file='..\signs\parking\0021.bmp'>
+    <box top='106' left='174' width='49' height='61'/>
+  </image>
+  <image file='..\signs\parking\0022.bmp'>
+    <box top='106' left='430' width='49' height='71'/>
+  </image>
+  <image file='..\signs\parking\0023.bmp'>
+    <box top='107' left='852' width='67' height='78'/>
+  </image>
+  <image file='..\signs\parking\0024.bmp'>
+    <box top='74' left='555' width='84' height='127'/>
+  </image>
+  <image file='..\signs\parking\0025.bmp'>
+    <box top='76' left='670' width='53' height='67'/>
+  </image>
+  <image file='..\signs\parking\0026.bmp'>
+    <box top='178' left='640' width='52' height='67'/>
+  </image>
+  <image file='..\signs\parking\0027.bmp'>
+    <box top='88' left='562' width='56' height='63'/>
+  </image>
+  <image file='..\signs\parking\0028.bmp'>
+    <box top='115' left='628' width='55' height='76'/>
+  </image>
+  <image file='..\signs\parking\0030.bmp'>
+    <box top='115' left='742' width='57' height='74'/>
+  </image>
+  <image file='..\signs\parking\0031.bmp'>
+    <box top='149' left='258' width='79' height='116'/>
+  </image>
+  <image file='..\signs\parking\0032.bmp'>
+    <box top='143' left='454' width='94' height='129'/>
+  </image>
+  <image file='..\signs\parking\0033.bmp'>
+    <box top='183' left='735' width='49' height='61'/>
+  </image>
+  <image file='..\signs\parking\0034.bmp'>
+    <box top='118' left='152' width='77' height='107'/>
+  </image>
+  <image file='..\signs\parking\0035.bmp'>
+    <box top='96' left='88' width='88' height='142'/>
+  </image>
+  <image file='..\signs\parking\0036.bmp'>
+    <box top='189' left='775' width='117' height='143'/>
+  </image>
+  <image file='..\signs\parking\0037.bmp'>
+    <box top='109' left='545' width='86' height='115'/>
+  </image>
+  <image file='..\signs\parking\0038.bmp'>
+    <box top='47' left='1003' width='107' height='153'/>
+  </image>
+  <image file='..\signs\parking\0039.bmp'>
+    <box top='103' left='826' width='53' height='62'/>
+  </image>
+  <image file='..\signs\parking\0040.bmp'>
+    <box top='55' left='374' width='52' height='63'/>
+  </image>
+  <image file='..\signs\parking\0042.bmp'>
+    <box top='126' left='71' width='94' height='96'/>
+  </image>
+  <image file='..\signs\parking\0043.bmp'>
+    <box top='103' left='223' width='55' height='66'/>
+  </image>
+  <image file='..\signs\parking\0044.bmp'>
+    <box top='170' left='729' width='81' height='111'/>
+  </image>
+  <image file='..\signs\parking\0045.bmp'>
+    <box top='175' left='819' width='55' height='74'/>
+  </image>
+  <image file='..\signs\parking\0046.bmp'>
+    <box top='113' left='757' width='59' height='67'/>
+  </image>
+  <image file='..\signs\parking\0047.bmp'>
+    <box top='208' left='817' width='71' height='84'/>
+  </image>
+</images>
+</dataset>

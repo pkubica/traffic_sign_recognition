@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='..\signs\oneway-exit\0001.bmp'>
+    <box top='130' left='127' width='77' height='65'/>
+  </image>
+  <image file='..\signs\oneway-exit\0002.bmp'>
+    <box top='82' left='756' width='129' height='98'/>
+  </image>
+  <image file='..\signs\oneway-exit\0003.bmp'>
+    <box top='86' left='751' width='130' height='105'/>
+  </image>
+  <image file='..\signs\oneway-exit\0004.bmp'>
+    <box top='115' left='898' width='116' height='112'/>
+  </image>
+  <image file='..\signs\oneway-exit\0005.bmp'>
+    <box top='210' left='792' width='102' height='105'/>
+  </image>
+  <image file='..\signs\oneway-exit\0006.bmp'>
+    <box top='129' left='625' width='84' height='76'/>
+  </image>
+  <image file='..\signs\oneway-exit\0007.bmp'>
+    <box top='114' left='656' width='86' height='88'/>
+  </image>
+  <image file='..\signs\oneway-exit\0008.bmp'>
+    <box top='152' left='648' width='116' height='103'/>
+  </image>
+  <image file='..\signs\oneway-exit\0009.bmp'>
+    <box top='159' left='650' width='85' height='74'/>
+  </image>
+  <image file='..\signs\oneway-exit\0010.bmp'>
+    <box top='150' left='765' width='87' height='79'/>
+  </image>
+  <image file='..\signs\oneway-exit\0011.bmp'>
+    <box top='139' left='670' width='72' height='62'/>
+  </image>
+  <image file='..\signs\oneway-exit\0012.bmp'>
+    <box top='134' left='772' width='110' height='118'/>
+  </image>
+  <image file='..\signs\oneway-exit\0013.bmp'>
+    <box top='78' left='778' width='91' height='103'/>
+  </image>
+  <image file='..\signs\oneway-exit\0014.bmp'>
+    <box top='149' left='577' width='69' height='64'/>
+  </image>
+  <image file='..\signs\oneway-exit\0015.bmp'>
+    <box top='112' left='89' width='130' height='121'/>
+  </image>
+  <image file='..\signs\oneway-exit\0016.bmp'>
+    <box top='157' left='632' width='57' height='53'/>
+  </image>
+  <image file='..\signs\oneway-exit\0017.bmp'>
+    <box top='155' left='694' width='64' height='56'/>
+  </image>
+  <image file='..\signs\oneway-exit\0018.bmp'>
+    <box top='209' left='656' width='72' height='57'/>
+  </image>
+  <image file='..\signs\oneway-exit\0019.bmp'>
+    <box top='147' left='693' width='78' height='61'/>
+  </image>
+  <image file='..\signs\oneway-exit\0020.bmp'>
+    <box top='184' left='811' width='78' height='64'/>
+  </image>
+  <image file='..\signs\oneway-exit\0021.bmp'>
+    <box top='59' left='781' width='91' height='91'/>
+  </image>
+  <image file='..\signs\oneway-exit\0022.bmp'>
+    <box top='171' left='636' width='111' height='111'/>
+  </image>
+  <image file='..\signs\oneway-exit\0023.bmp'>
+    <box top='171' left='629' width='86' height='83'/>
+  </image>
+  <image file='..\signs\oneway-exit\0024.bmp'>
+    <box top='142' left='922' width='104' height='101'/>
+  </image>
+  <image file='..\signs\oneway-exit\0025.bmp'>
+    <box top='39' left='590' width='53' height='51'/>
+  </image>
+  <image file='..\signs\oneway-exit\0026.bmp'>
+    <box top='138' left='666' width='114' height='118'/>
+  </image>
+  <image file='..\signs\oneway-exit\0027.bmp'>
+    <box top='102' left='156' width='94' height='100'/>
+  </image>
+  <image file='..\signs\oneway-exit\0028.bmp'>
+    <box top='133' left='753' width='58' height='51'/>
+  </image>
+  <image file='..\signs\oneway-exit\0029.bmp'>
+    <box top='170' left='859' width='65' height='53'/>
+  </image>
+  <image file='..\signs\oneway-exit\0030.bmp'>
+    <box top='207' left='766' width='57' height='52'/>
+  </image>
+  <image file='..\signs\oneway-exit\0031.bmp'>
+    <box top='143' left='564' width='66' height='52'/>
+  </image>
+  <image file='..\signs\oneway-exit\0032.bmp'>
+    <box top='149' left='698' width='72' height='67'/>
+  </image>
+  <image file='..\signs\oneway-exit\0033.bmp'>
+    <box top='85' left='390' width='60' height='57'/>
+  </image>
+  <image file='..\signs\oneway-exit\0034.bmp'>
+    <box top='67' left='664' width='101' height='101'/>
+  </image>
+  <image file='..\signs\oneway-exit\0035.bmp'>
+    <box top='119' left='763' width='112' height='94'/>
+  </image>
+  <image file='..\signs\oneway-exit\0036.bmp'>
+    <box top='119' left='706' width='92' height='84'/>
+  </image>
+  <image file='..\signs\oneway-exit\0037.bmp'>
+    <box top='150' left='749' width='98' height='94'/>
+  </image>
+  <image file='..\signs\oneway-exit\0038.bmp'>
+    <box top='141' left='678' width='83' height='75'/>
+  </image>
+  <image file='..\signs\oneway-exit\0039.bmp'>
+    <box top='120' left='581' width='75' height='71'/>
+  </image>
+  <image file='..\signs\oneway-exit\0040.bmp'>
+    <box top='82' left='778' width='129' height='134'/>
+  </image>
+  <image file='..\signs\oneway-exit\0042.bmp'>
+    <box top='138' left='706' width='82' height='74'/>
+  </image>
+</images>
+</dataset>

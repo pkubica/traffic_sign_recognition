@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='..\signs\main\0001.bmp'>
+    <box top='165' left='869' width='86' height='79'/>
+  </image>
+  <image file='..\signs\main\0002.bmp'>
+    <box top='212' left='1003' width='93' height='88'/>
+  </image>
+  <image file='..\signs\main\0003.bmp'>
+    <box top='184' left='1024' width='92' height='75'/>
+  </image>
+  <image file='..\signs\main\0004.bmp'>
+    <box top='128' left='908' width='118' height='108'/>
+  </image>
+  <image file='..\signs\main\0005.bmp'>
+    <box top='167' left='666' width='96' height='82'/>
+  </image>
+  <image file='..\signs\main\0006.bmp'>
+    <box top='183' left='788' width='93' height='68'/>
+  </image>
+  <image file='..\signs\main\0007.bmp'>
+    <box top='193' left='655' width='65' height='51'/>
+  </image>
+  <image file='..\signs\main\0008.bmp'>
+    <box top='88' left='1065' width='106' height='105'/>
+  </image>
+  <image file='..\signs\main\0009.bmp'>
+    <box top='86' left='725' width='59' height='57'/>
+  </image>
+  <image file='..\signs\main\0010.bmp'>
+    <box top='120' left='756' width='70' height='61'/>
+  </image>
+  <image file='..\signs\main\0011.bmp'>
+    <box top='132' left='878' width='108' height='96'/>
+  </image>
+  <image file='..\signs\main\0012.bmp'>
+    <box top='134' left='832' width='82' height='71'/>
+  </image>
+  <image file='..\signs\main\0014.bmp'>
+    <box top='158' left='859' width='77' height='79'/>
+  </image>
+  <image file='..\signs\main\0015.bmp'>
+    <box top='173' left='1013' width='116' height='107'/>
+  </image>
+  <image file='..\signs\main\0016.bmp'>
+    <box top='124' left='861' width='79' height='77'/>
+  </image>
+  <image file='..\signs\main\0017.bmp'>
+    <box top='126' left='698' width='75' height='72'/>
+  </image>
+  <image file='..\signs\main\0018.bmp'>
+    <box top='139' left='971' width='105' height='99'/>
+  </image>
+  <image file='..\signs\main\0019.bmp'>
+    <box top='193' left='867' width='92' height='73'/>
+  </image>
+  <image file='..\signs\main\0020.bmp'>
+    <box top='101' left='1084' width='107' height='116'/>
+  </image>
+  <image file='..\signs\main\0021.bmp'>
+    <box top='167' left='992' width='96' height='92'/>
+  </image>
+  <image file='..\signs\main\0022.bmp'>
+    <box top='186' left='855' width='121' height='99'/>
+  </image>
+  <image file='..\signs\main\0023.bmp'>
+    <box top='166' left='759' width='86' height='66'/>
+  </image>
+  <image file='..\signs\main\0024.bmp'>
+    <box top='153' left='630' width='66' height='54'/>
+  </image>
+  <image file='..\signs\main\0025.bmp'>
+    <box top='123' left='631' width='74' height='74'/>
+  </image>
+  <image file='..\signs\main\0026.bmp'>
+    <box top='136' left='794' width='69' height='57'/>
+  </image>
+  <image file='..\signs\main\0027.bmp'>
+    <box top='138' left='874' width='65' height='73'/>
+  </image>
+  <image file='..\signs\main\0028.bmp'>
+    <box top='137' left='767' width='96' height='88'/>
+  </image>
+  <image file='..\signs\main\0029.bmp'>
+    <box top='145' left='880' width='89' height='78'/>
+  </image>
+  <image file='..\signs\main\0030.bmp'>
+    <box top='131' left='797' width='70' height='58'/>
+  </image>
+  <image file='..\signs\main\0031.bmp'>
+    <box top='196' left='684' width='89' height='75'/>
+  </image>
+  <image file='..\signs\main\0032.bmp'>
+    <box top='106' left='882' width='127' height='124'/>
+  </image>
+  <image file='..\signs\main\0033.bmp'>
+    <box top='125' left='867' width='100' height='91'/>
+  </image>
+  <image file='..\signs\main\0034.bmp'>
+    <box top='169' left='674' width='75' height='67'/>
+  </image>
+  <image file='..\signs\main\0035.bmp'>
+    <box top='170' left='923' width='74' height='68'/>
+  </image>
+  <image file='..\signs\main\0036.bmp'>
+    <box top='158' left='686' width='59' height='45'/>
+  </image>
+  <image file='..\signs\main\0037.bmp'>
+    <box top='120' left='755' width='64' height='59'/>
+  </image>
+  <image file='..\signs\main\0038.bmp'>
+    <box top='143' left='710' width='53' height='51'/>
+  </image>
+  <image file='..\signs\main\0039.bmp'>
+    <box top='83' left='631' width='74' height='60'/>
+  </image>
+  <image file='..\signs\main\0040.bmp'>
+    <box top='133' left='708' width='67' height='53'/>
+  </image>
+  <image file='..\signs\main\0041.bmp'>
+    <box top='148' left='716' width='65' height='56'/>
+  </image>
+  <image file='..\signs\main\0042.bmp'>
+    <box top='68' left='686' width='65' height='58'/>
+  </image>
+  <image file='..\signs\main\0043.bmp'>
+    <box top='112' left='879' width='63' height='56'/>
+  </image>
+  <image file='..\signs\main\0044.bmp'>
+    <box top='103' left='647' width='67' height='58'/>
+  </image>
+  <image file='..\signs\main\0046.bmp'>
+    <box top='131' left='795' width='88' height='71'/>
+  </image>
+  <image file='..\signs\main\0047.bmp'>
+    <box top='170' left='855' width='121' height='114'/>
+  </image>
+  <image file='..\signs\main\0048.bmp'>
+    <box top='89' left='583' width='118' height='93'/>
+  </image>
+  <image file='..\signs\main\0049.bmp'>
+    <box top='103' left='713' width='118' height='88'/>
+  </image>
+  <image file='..\signs\main\0051.bmp'>
+    <box top='112' left='509' width='62' height='55'/>
+  </image>
+  <image file='..\signs\main\0053.bmp'>
+    <box top='131' left='792' width='143' height='105'/>
+  </image>
+  <image file='..\signs\main\0054.bmp'>
+    <box top='105' left='792' width='112' height='88'/>
+  </image>
+  <image file='..\signs\main\0056.bmp'>
+    <box top='123' left='518' width='61' height='50'/>
+  </image>
+  <image file='..\signs\main\0057.bmp'>
+    <box top='117' left='532' width='75' height='69'/>
+  </image>
+  <image file='..\signs\main\0058.bmp'>
+    <box top='174' left='845' width='92' height='81'/>
+  </image>
+  <image file='..\signs\main\0059.bmp'>
+    <box top='97' left='770' width='108' height='93'/>
+  </image>
+  <image file='..\signs\main\0060.bmp'>
+    <box top='112' left='916' width='131' height='103'/>
+  </image>
+  <image file='..\signs\main\0061.bmp'>
+    <box top='89' left='799' width='150' height='114'/>
+  </image>
+</images>
+</dataset>

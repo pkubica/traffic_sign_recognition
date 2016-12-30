@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='..\signs\crossing\0002.bmp'>
+    <box top='219' left='1010' width='58' height='55'/>
+  </image>
+  <image file='..\signs\crossing\0003.bmp'>
+    <box top='179' left='773' width='84' height='68'/>
+  </image>
+  <image file='..\signs\crossing\0006.bmp'>
+    <box top='141' left='780' width='56' height='53'/>
+  </image>
+  <image file='..\signs\crossing\0009.bmp'>
+    <box top='189' left='921' width='54' height='51'/>
+  </image>
+  <image file='..\signs\crossing\0010.bmp'>
+    <box top='181' left='983' width='86' height='80'/>
+  </image>
+  <image file='..\signs\crossing\0011.bmp'>
+    <box top='184' left='943' width='59' height='58'/>
+  </image>
+  <image file='..\signs\crossing\0012.bmp'>
+    <box top='181' left='938' width='56' height='50'/>
+  </image>
+  <image file='..\signs\crossing\0013.bmp'>
+    <box top='146' left='1047' width='83' height='77'/>
+  </image>
+  <image file='..\signs\crossing\0014.bmp'>
+    <box top='144' left='715' width='86' height='67'/>
+  </image>
+  <image file='..\signs\crossing\0015.bmp'>
+    <box top='162' left='682' width='57' height='62'/>
+  </image>
+  <image file='..\signs\crossing\0016.bmp'>
+    <box top='146' left='839' width='64' height='65'/>
+  </image>
+  <image file='..\signs\crossing\0017.bmp'>
+    <box top='148' left='800' width='64' height='55'/>
+  </image>
+  <image file='..\signs\crossing\0019.bmp'>
+    <box top='96' left='675' width='67' height='55'/>
+  </image>
+  <image file='..\signs\crossing\0022.bmp'>
+    <box top='131' left='574' width='59' height='59'/>
+  </image>
+  <image file='..\signs\crossing\0024.bmp'>
+    <box top='203' left='781' width='94' height='65'/>
+  </image>
+  <image file='..\signs\crossing\0025.bmp'>
+    <box top='144' left='624' width='69' height='68'/>
+  </image>
+  <image file='..\signs\crossing\0026.bmp'>
+    <box top='29' left='905' width='87' height='87'/>
+  </image>
+  <image file='..\signs\crossing\0028.bmp'>
+    <box top='75' left='925' width='93' height='81'/>
+  </image>
+  <image file='..\signs\crossing\0030.bmp'>
+    <box top='224' left='978' width='65' height='45'/>
+  </image>
+  <image file='..\signs\crossing\0033.bmp'>
+    <box top='111' left='755' width='67' height='52'/>
+  </image>
+  <image file='..\signs\crossing\0035.bmp'>
+    <box top='108' left='856' width='62' height='59'/>
+  </image>
+  <image file='..\signs\crossing\0036.bmp'>
+    <box top='168' left='1033' width='79' height='77'/>
+  </image>
+  <image file='..\signs\crossing\0037.bmp'>
+    <box top='130' left='840' width='64' height='62'/>
+  </image>
+  <image file='..\signs\crossing\0039.bmp'>
+    <box top='221' left='945' width='54' height='49'/>
+  </image>
+  <image file='..\signs\crossing\0040.bmp'>
+    <box top='206' left='959' width='64' height='65'/>
+  </image>
+  <image file='..\signs\crossing\0041.bmp'>
+    <box top='153' left='867' width='90' height='80'/>
+  </image>
+  <image file='..\signs\crossing\0042.bmp'>
+    <box top='92' left='776' width='67' height='54'/>
+  </image>
+  <image file='..\signs\crossing\0043.bmp'>
+    <box top='98' left='953' width='90' height='69'/>
+  </image>
+  <image file='..\signs\crossing\0044.bmp'>
+    <box top='82' left='698' width='64' height='57'/>
+  </image>
+  <image file='..\signs\crossing\0047.bmp'>
+    <box top='120' left='878' width='62' height='62'/>
+  </image>
+</images>
+</dataset>
