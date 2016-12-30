@@ -45,5 +45,14 @@ run example:
 ./traffic_sign_detector -v video.mp4
 ```
   
+### Image sets
+Images are mainly from Google street view. Some images are from searching at Google images.
 
+### Need improvements
+- better datasets (mainly for stop sign)
+- add negative and test datasets
+- for high videoresolution images and videos:
+  - specify detection area - blue color => blue signs in limited detection area
+  - upsample video frames for better recognition
+  - perfomance => speedup
 
